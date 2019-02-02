@@ -85,7 +85,7 @@ class Quiz extends Component {
 					</Text>
 
 					<Text style={styles.header}>
-						Score: {(parseInt(this.state.totalCorrect / cardCount * 100).toFixed(0))}
+						Score: {(this.state.totalCorrect / cardCount * 100).toFixed(0)}%
 					</Text>
 
 					<TouchableOpacity onPress={() => this.goToHome(this.state.deck.title)}>
