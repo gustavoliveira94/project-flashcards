@@ -2,7 +2,11 @@
 
 Project FlashCards is a app of cards where the answers are Correct and Incorrect.
 
-Getting Started:
+### Tested
+
+App tested in device just on (Android)
+
+### Getting Started:
 
 How to execute.
 
