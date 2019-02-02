@@ -7,4 +7,5 @@ Getting Started:
 How to execute.
 
 `cd project-flashcards`
+<br/>
 `npm install`
